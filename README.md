@@ -2,7 +2,7 @@
 
 ## Description
 Today, one of the largest concern is climate changing resulted by global warming which landfill play a significant role in it. As environmental responsibility is not a duty of only a group of people anymore, We believe that by guiding people how to dispose of waste properly, we could reduce the amount of undiverted waste remarkably.
-Our solution which is inspired by an AI research at SFU is encouraging people to waste properly.As we believe, people will be motivated by presence of rewards,  we have a concept of giving points to the user and also the option of redemption to them.
+Our solution which is inspired by an AI research at SFU is encouraging people to waste properly.As we believe that people will be more motivated by presence of rewards,  we have a concept of giving points to the user and also the option of redemption to them.
 In the concept, there is a device consists of several bins with a scale under and a sensor at top of each of them. There is also a camera for recognition of an object. Moreover, our device ( set of bins and camera and sensors ) has a monitor that allows users to log in to their account and to earn points based on their performance. The device not only shows where the recognized object has to go but also print out informative messages.
 
 ## Algorithm of earning points and redemption
