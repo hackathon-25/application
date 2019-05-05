@@ -1,3 +1,5 @@
+![Logo](https://user-images.githubusercontent.com/41522248/57200843-8bc6d100-6f45-11e9-8c33-26a4638cea35.png)
+
 # WasteFun
 
 ## Description
