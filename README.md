@@ -24,6 +24,7 @@ Users are rewarded :
 For example, if they do not make a mistake for a week they will be given more points 
 
 Redemption system:
+
 Users are motivated to use the device by the presence of rewards. For this reason, every 100 points are considered as a dollar and users can use them in different ways like Gift cards.
 
 
@@ -32,12 +33,10 @@ We have an API written in Ruby. We hosted the web app on Heroku.
 Besides that, we've built an Android app that allows users to have an account, access the statistics and redeem points for money.
 We plan to build an AI assistance that's going to recognize the objects and the information should be sent to the api.
 
-## Which part was the most difficult to implement and why?
-Object 
-
 ## What are the next steps to complete the project?
 
-As statistic illustrates, the undiverted waste is not only related to the households. Due to this fact, the next level of our concept is a way to encourage industries to dispose of waste properly.
+One of the main part of our project is related to object recognition which has not be implemented  due to the time limitation.
+Furthermore ,as statistic illustrates, the undiverted waste is not only related to the households. For this reason, the next level of our concept is a way to encourage industries to dispose of waste properly.
 
 
 ## references
