@@ -8,39 +8,36 @@ In the concept, there is a device consists of several bins with a scale under an
 ## Algorithm of earning points and redemption
 
 Users are rewarded :
-
-For putting items into correct bins.
-If users put an item into a right bin, they are rewarded with relevant points.
-Green 5 points
-Papers 4 points
-Recycles 3 points
-Glasses 2 points
-Garbage 1 point
-If users put an item into a wrong bin, they will be penalized by losing 10 points
-Based on the personalized goals
-If users exceeded the limit (calculated based on the number of people leave together), they lose half of the points earned last month
-If users did better than their history, depends on how well they did they will earn more points.
-If users performance was worse than themselves and better than the limit, they are not rewarded more points.
-For the successful challenges, they have participated in
+- For putting items into correct bins.
+  - If users put an item into a right bin, they are rewarded with relevant points.
+    - Green 5 points
+    - Papers 4 points
+    - Recycles 3 points
+    - Glasses 2 points
+    - Garbage 1 point
+  - If users put an item into a wrong bin, they will be penalized by losing 10 points
+- Based on the personalized goals
+  - If users exceeded the limit (calculated based on the number of people leave together), they lose half of the points earned last month
+  - If users did better than their history, depends on how well they did they will earn more points.
+  - If users performance was worse than themselves and better than the limit, they are not rewarded more points.
+- For the successful challenges, they have participated in
 For example, if they do not make a mistake for a week they will be given more points 
 
-Redemption system 
-Users are motivated to use the device by the presence of rewards. For this reason, every 100 points are considered as a dollar and users can use them in different ways: 
-Gift cards
-
-
-
+Redemption system:
+Users are motivated to use the device by the presence of rewards. For this reason, every 100 points are considered as a dollar and users can use them in different ways like Gift cards.
 
 
 ## What is your stack? What language did you program it in? What API’s did you use?
-
+We have an API written in Ruby. We hosted the web app on Heroku.
+Besides that, we've built an Android app that allows users to have an account, access the statistics and redeem points for money.
+We plan to build an AI assistance that's going to recognize the objects and the information should be sent to the api.
 
 ## Which part was the most difficult to implement and why?
-
+Object 
 
 ## What are the next steps to complete the project?
 
-As statistic illustrates the undiverted waste is not only related to the households. Due to this fact, the next level of our concept is a way to encourage industries to dispose of waste properly.
+As statistic illustrates, the undiverted waste is not only related to the households. Due to this fact, the next level of our concept is a way to encourage industries to dispose of waste properly.
 
 
 ## references
