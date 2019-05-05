@@ -1,6 +1,5 @@
 ![Logo](https://user-images.githubusercontent.com/41522248/57200843-8bc6d100-6f45-11e9-8c33-26a4638cea35.png)
 
-# WasteFun
 
 ## Description
 Today, one of the largest concern is climate changing resulted by global warming which landfill play a significant role in it. As environmental responsibility is not a duty of only a group of people anymore, We believe that by guiding people how to dispose of waste properly, we could reduce the amount of undiverted waste remarkably.
