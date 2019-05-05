@@ -1,45 +1,11 @@
-## What does it do?
-## What problem does it try to solve? What was the inspiration behind the project idea?
-## What is your stack? What language did you program it in? What API’s did you use?
-## Which part was the most difficult to implement and why?
-## What are the next steps to complete the project?
-## Why are you we trying to solve ???? improper waste disposal
+# WasteFun
 
-Introduction:
-Problem: what makes us to lead the waste managem
+## Description
+Today, one of the largest concern is climate changing resulted by global warming which landfill play a significant role in it. As environmental responsibility is not a duty of only a group of people anymore, We believe that by guiding people how to dispose of waste properly, we could reduce the amount of undiverted waste remarkably.
+Our solution which is inspired by an AI research at SFU is encouraging people to waste properly.As we believe, people will be motivated by presence of rewards,  we have a concept of giving points to the user and also the option of redemption to them.
+In the concept, there is a device consists of several bins with a scale under and a sensor at top of each of them. There is also a camera for recognition of an object. Moreover, our device ( set of bins and camera and sensors ) has a monitor that allows users to log in to their account and to earn points based on their performance. The device not only shows where the recognized object has to go but also print out informative messages.
 
-Polina’s notes on
-What PROBLEM are we trying to solve?
-	Improper waste disposal 
-	Why is it a problem? How does that harm our planet?
-	What are consequences of improper waste disposal?
-
-“Ontario has a waste problem; every year, Ontario produces nearly one tonne of waste per person and three-quarters of [this waste] ends up in landfills.”
-
-“Although switching to environmentally conscious methods of waste reduction (like composting or recycling) is encouraged, a vast amount of recycled waste still ends up in landfills. The reason for this is that people are recycling wrong with contaminated and non-recyclable objects ending up in the wrong bin.”
-
-Again: a vast amount of recycled waste still ends up in landfills.
-
-Say what happens with each kind of waste, specified by a bin. How that waste is process further.
-Then say what happens when you put wrong staff into wrong bins.
-
-BLACK vs GREEN
-When you put food scraps into a black bin instead of a green one, food scraps, are buried at the landfill where they decay and cause global warming pollutions.
-Reference for the text is in the video:
-https://vancouver.ca/home-property-development/what-food-scraps-and-yard-waste-go-in-green-bins.aspx
-
-Hi! Have you ever wondered what happens with items after you throw them away?
-
-Black bin iteams are buries at the landfills.
-Green bin items
-
-Have you ever wondered what happens when you put a wrong item into a blue bin?
-
-Solution
-Insert basic explanation for the solution:
-
-
-Rewards system (3 parts)
+## Algorithm of earning points and redemption
 
 Users are rewarded :
 
@@ -62,6 +28,26 @@ Redemption system
 Users are motivated to use the device by the presence of rewards. For this reason, every 100 points are considered as a dollar and users can use them in different ways: 
 Gift cards
 
-Education part: 
-The device ( set of bins and camera and sensors ) has a monitor that allows users to log in to their account and to earn points based on their performance. 
-The device not only shows where the recognized object has to go but also print out informative messages.
+
+
+
+
+## What is your stack? What language did you program it in? What API’s did you use?
+
+
+## Which part was the most difficult to implement and why?
+
+
+## What are the next steps to complete the project?
+
+As statistic illustrates the undiverted waste is not only related to the households. Due to this fact, the next level of our concept is a way to encourage industries to dispose of waste properly.
+
+
+## references
+https://www.conferenceboard.ca/hcp/provincial/environment/waste.aspx
+http://www.sfu.ca/sfunews/stories/2019/04/innovators-aim-for-a-cleaner-environment-.html?fbclid=IwAR3xlCB5O8zUvU6aFd_9VdkQr4iNEBIRERCR7K_8jdC2gVkS4eirFzS0xoo
+
+
+
+
+
